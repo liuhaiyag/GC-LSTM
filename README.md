@@ -29,11 +29,6 @@ The GeoLife GPS Trajectories dataset was released by Microsoft Research Asia. It
 Dataset source:  
 https://www.microsoft.com/download/details.aspx?id=52367
 
-Expected raw data directory:
-
-```text
-data/raw/geolife/
-```
 
 ### Porto Taxi Trajectories
 
@@ -41,9 +36,3 @@ The Porto Taxi Trajectories dataset contains taxi trajectories collected in Port
 
 Dataset source:  
 https://www.kaggle.com/datasets/crailtap/taxi-trajectory/data
-
-Expected raw data directory:
-
-```text
-data/raw/porto/
-```
